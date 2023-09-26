@@ -1,1 +1,2 @@
-console.log("Hello JavaScript")
+let number = 10
+console.log(number)
